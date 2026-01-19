@@ -1,0 +1,16 @@
+Day 1:
+ Carefully read the project description and rubric. Identified all required features such as two question banks, random questions, scoring rules, admin mode, and error handling. Planned how the program would flow using menus and methods.
+Day 2:
+ Created the Java project and basic program structure. Set up the main menu and started building the data structures using ArrayLists to store questions, answer options, and correct answers for Part A and Part B.
+Day 3:
+ Added G1 practice questions to both question banks. Ensured that each question had four answer choices and a correct answer. Tested that questions, options, and answers stayed aligned using the same index.
+Day 4:
+ Implemented the test-taking logic. Programmed the random selection of 6 questions from each part and ensured questions did not repeat during a single test attempt.
+Day 5:
+ Implemented the scoring system for Part A, Part B, and the final result. Added the pass/fail logic based on the project requirements (75% overall and minimum score per section). Added early test termination when passing becomes impossible.
+Day 6:
+ Developed the admin mode. Added functionality to log in as admin, add new questions, remove questions, and display all stored questions. Tested admin features to ensure data consistency.
+Day 7:
+ Added input validation throughout the program to handle invalid menu choices and answer inputs. Tested the program multiple times using different inputs to ensure stability and correctness.
+Day 8:
+ Performed final testing and debugging. Reviewed code formatting and comments. Prepared the README file and ensured all required files were ready for submission.
