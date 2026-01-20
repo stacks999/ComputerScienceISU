@@ -64,6 +64,8 @@ Admin Mode
 
 Admin mode is protected by a password.
 
+The admins password is admin123.
+
 The admin can:
 
 Add new questions to Part A or Part B
